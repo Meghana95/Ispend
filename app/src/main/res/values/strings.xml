@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ISpend</string>
+    <string name="title_activity_table_display">TableDisplay</string>
+    <string name="title_activity_offers">Offers</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_new_data">NewDataActivity</string>
+    <string name="title_activity_add_account">AddAccountActivity</string>
+    <string name="title_activity_user_details">UserDetailsActivity</string>
+    <string name="title_activity_new_offers">NewOffers</string>
+</resources>

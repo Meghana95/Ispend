@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/generate_report"
+            android:icon="@drawable/graphs"
+            android:title="Generate Report" />
+        <item
+            android:id="@+id/user_details"
+            android:icon="@drawable/download"
+            android:title="Account" />
+        <item
+            android:id="@+id/get_offers"
+            android:icon="@drawable/offers"
+            android:title="Offers" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_mail"
+                android:icon="@drawable/mail"
+                android:title="Contact" />
+        </menu>
+    </item>
+
+</menu>
